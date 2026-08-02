@@ -1,6 +1,6 @@
 # 16-bit Arithmetic Logic Unit (ALU) Design using Verilog HDL
 
-A synthesizable **16-bit Arithmetic Logic Unit (ALU)** designed in **Verilog HDL** and verified using **Xilinx Vivado**. The ALU performs multiple arithmetic, logical, shift, and comparison operations based on a 4-bit opcode and generates status flags for processor-style computation.
+A synthesizable **16-bit Arithmetic Logic Unit (ALU)** designed in **Verilog HDL** and verified using **Xilinx Vivado**. The ALU performs multiple arithmetic, logical, shift, and comparison operations based on a 4-bit opcode and generates status flags for processor-style computation. 
 
 
 ## Project Overview
